@@ -12,7 +12,7 @@ Relational database containing various queries, views and relation keys 📁
 
 ## Queries 
 
-### Join 2 Tables and Group By ✨
+### Join 2 Tables and Group By - AVG Function ✨
 <pre>
 SELECT
     RTRIM(esd.FirstName) + ' ' + RTRIM(esd.LastName) AS FullName,
