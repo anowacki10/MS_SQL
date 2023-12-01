@@ -2,7 +2,7 @@
 Relational database containing various queries, views and relation keys 📁
 
 * [OVERVIEW](#Relations-Diagram)
-* [QUERIES](#queriess)
+* [QUERIES](#Queries)
 
 
 ## Relations Diagram 
