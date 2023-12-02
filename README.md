@@ -72,11 +72,6 @@ ADD CONSTRAINT FK_IntershipGradesInspectors
 FOREIGN KEY (Inspector) 
 REFERENCES EmployeeHeadline(EmployeeID); 
 </pre>
--- Foreign key set up
-ALTER TABLE IntershipGrades
-ADD CONSTRAINT FK_IntershipGradesInspectors
-FOREIGN KEY (Inspector) 
-REFERENCES EmployeeHeadline(EmployeeID); 
 
 ### Simple AVG with 2 declimal points ✨
 <pre>
