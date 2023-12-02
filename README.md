@@ -1,16 +1,16 @@
 # MS_SQL
-Relational database containing various queries, views and relation keys 📁
+### Relational database containing various queries, views and relation keys 📁🌟 
 
-* [OVERVIEW](#Relations-Diagram)
-* [QUERIES](#Queries)
+* [Overview](#Relations-Diagram) 
+* [Queries](#Queries) 
 
-
-## Relations Diagram 
+ 
+## Relations Diagram  🔀
 <br>![Alt Text](./img/Db_diagram.png)</br>
-## Tables overview
+## Tables overview 🔢
 <br>![Alt Text](./img/Tabels_overview.png)</br>
 
-## Queries 
+## Queries ▶️
 
 ### Join 2 Tables and Group By - AVG Function ✨
 <pre>
