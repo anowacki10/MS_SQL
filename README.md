@@ -1,8 +1,8 @@
 # MS_SQL
 ### Relational database containing various queries, views and relation keys 📁🌟 
 
-* [Overview](#Relations-Diagram) 
-* [Queries](#Queries) 
+* [Overview](#Relations-Diagram- 🔀) 
+* [Queries](#Queries-🔢) 
 
  
 ## Relations Diagram  🔀
